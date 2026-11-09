@@ -28,7 +28,7 @@
           "changelogUrl": "https://github.com/Yakigura/QvInfoX/blob/main/Packages/com.yakigura.qvinfox/CHANGELOG.md",
           "licensesUrl": "https://github.com/Yakigura/QvInfoX/blob/main/LICENSE",
           "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.0/com.yakigura.qvinfox-1.0.0.zip",
-          "zipSHA256": "acbfbebeb7d08293845f18f9ecc47795bbfe3ea7a514e02082e59ae6dc28347d"
+          "zipSHA256": "dbd660dce2327eda099f475ad43c2ca8a55abe74bcad666f8a5735cf03a52aa1"
         }
       }
     },
@@ -48,7 +48,7 @@
           "changelogUrl": "https://github.com/Yakigura/QvInfoX/blob/main/Packages/com.yakigura.qvscenesetup/CHANGELOG.md",
           "licensesUrl": "https://github.com/Yakigura/QvInfoX/blob/main/LICENSE",
           "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.0/com.yakigura.qvscenesetup-1.0.0.zip",
-          "zipSHA256": "1f02b40bc2619905a6431fe068b5ccbea066b31c5df1254b1ada74cfc2645dbf"
+          "zipSHA256": "b72d6b50abb397b5d57f90e9921de9cdc92961398a1156b3722321b65dcaf6bb"
         }
       }
     },
