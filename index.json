@@ -29,6 +29,30 @@
           "licensesUrl": "https://github.com/Yakigura/QvInfoX/blob/main/LICENSE",
           "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.0/com.yakigura.qvinfox-1.0.0.zip",
           "zipSHA256": "713d1ba444db8b0c6e231410b008e6aca56eca0bd08c29b0ca31582c66825fae"
+        },
+        "1.0.1": {
+          "name": "com.yakigura.qvinfox",
+          "displayName": "QvInfoX",
+          "version": "1.0.1",
+          "unity": "2022.3",
+          "description": "Non-invasive monitoring tools for QvPen: sync progress, ink load, and per-pen preview indicator.",
+          "author": {
+            "name": "やきたてぐらふてぃ",
+            "url": "https://github.com/Yakigura"
+          },
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.9.0",
+            "com.vrchat.base": "^3.9.0",
+            "net.ureishi.qvpen": ">=3.3.0",
+            "com.yakigura.qvscenesetup": ">=1.0.1",
+            "com.yakigura.qvinkpreview": ">=1.0.0",
+            "com.cyan.playerobjectpool": "^1.1.2"
+          },
+          "documentationUrl": "https://github.com/Yakigura/QvInfoX#readme",
+          "changelogUrl": "https://github.com/Yakigura/QvInfoX/blob/main/Packages/com.yakigura.qvinfox/CHANGELOG.md",
+          "licensesUrl": "https://github.com/Yakigura/QvInfoX/blob/main/LICENSE",
+          "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.1/com.yakigura.qvinfox-1.0.1.zip",
+          "zipSHA256": "7be51d0d10694afa00ff422b05fab3eb5c31ea6b70428d6ce3df177008744c1f"
         }
       }
     },
@@ -49,6 +73,22 @@
           "licensesUrl": "https://github.com/Yakigura/QvInfoX/blob/main/LICENSE",
           "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.0/com.yakigura.qvscenesetup-1.0.0.zip",
           "zipSHA256": "b72d6b50abb397b5d57f90e9921de9cdc92961398a1156b3722321b65dcaf6bb"
+        },
+        "1.0.1": {
+          "name": "com.yakigura.qvscenesetup",
+          "displayName": "Qv Scene Setup",
+          "version": "1.0.1",
+          "unity": "2022.3",
+          "description": "Reversible per-scene installation records for Yakigura tools.",
+          "author": {
+            "name": "やきたてぐらふてぃ",
+            "url": "https://github.com/Yakigura"
+          },
+          "documentationUrl": "https://github.com/Yakigura/QvInfoX#readme",
+          "changelogUrl": "https://github.com/Yakigura/QvInfoX/blob/main/Packages/com.yakigura.qvscenesetup/CHANGELOG.md",
+          "licensesUrl": "https://github.com/Yakigura/QvInfoX/blob/main/LICENSE",
+          "url": "https://github.com/Yakigura/QvInfoX/releases/download/1.0.1/com.yakigura.qvscenesetup-1.0.1.zip",
+          "zipSHA256": "ab78d3c4a28eb7b27675814fee267c1d1c19f169dfbc592682a7a8c6a7bd0925"
         }
       }
     },
